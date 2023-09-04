@@ -1,0 +1,11 @@
+C:\Users\LUNFUANKENDA\Documents\HTM\Lunfuankenda NotePad\Lunfuankenda NotePad\bin\Debug\Lunfuankenda NotePad.exe.config
+C:\Users\LUNFUANKENDA\Documents\HTM\Lunfuankenda NotePad\Lunfuankenda NotePad\bin\Debug\Lunfuankenda NotePad.exe
+C:\Users\LUNFUANKENDA\Documents\HTM\Lunfuankenda NotePad\Lunfuankenda NotePad\bin\Debug\Lunfuankenda NotePad.pdb
+C:\Users\LUNFUANKENDA\Documents\HTM\Lunfuankenda NotePad\Lunfuankenda NotePad\obj\Debug\Lunfuankenda NotePad.csproj.AssemblyReference.cache
+C:\Users\LUNFUANKENDA\Documents\HTM\Lunfuankenda NotePad\Lunfuankenda NotePad\obj\Debug\Lunfuankenda NotePad.csproj.SuggestedBindingRedirects.cache
+C:\Users\LUNFUANKENDA\Documents\HTM\Lunfuankenda NotePad\Lunfuankenda NotePad\obj\Debug\Lunfuankenda_NotePad.Form1.resources
+C:\Users\LUNFUANKENDA\Documents\HTM\Lunfuankenda NotePad\Lunfuankenda NotePad\obj\Debug\Lunfuankenda_NotePad.Properties.Resources.resources
+C:\Users\LUNFUANKENDA\Documents\HTM\Lunfuankenda NotePad\Lunfuankenda NotePad\obj\Debug\Lunfuankenda NotePad.csproj.GenerateResource.cache
+C:\Users\LUNFUANKENDA\Documents\HTM\Lunfuankenda NotePad\Lunfuankenda NotePad\obj\Debug\Lunfuankenda NotePad.csproj.CoreCompileInputs.cache
+C:\Users\LUNFUANKENDA\Documents\HTM\Lunfuankenda NotePad\Lunfuankenda NotePad\obj\Debug\Lunfuankenda NotePad.exe
+C:\Users\LUNFUANKENDA\Documents\HTM\Lunfuankenda NotePad\Lunfuankenda NotePad\obj\Debug\Lunfuankenda NotePad.pdb
