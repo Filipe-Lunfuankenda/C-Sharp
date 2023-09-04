@@ -1,0 +1,11 @@
+C:\Users\LUNFUANKENDA\Documents\HTM\Cronómetro Demo\Cronómetro Demo\bin\Debug\Cronómetro Demo.exe.config
+C:\Users\LUNFUANKENDA\Documents\HTM\Cronómetro Demo\Cronómetro Demo\bin\Debug\Cronómetro Demo.exe
+C:\Users\LUNFUANKENDA\Documents\HTM\Cronómetro Demo\Cronómetro Demo\bin\Debug\Cronómetro Demo.pdb
+C:\Users\LUNFUANKENDA\Documents\HTM\Cronómetro Demo\Cronómetro Demo\obj\Debug\Cronómetro Demo.csproj.AssemblyReference.cache
+C:\Users\LUNFUANKENDA\Documents\HTM\Cronómetro Demo\Cronómetro Demo\obj\Debug\Cronómetro Demo.csproj.SuggestedBindingRedirects.cache
+C:\Users\LUNFUANKENDA\Documents\HTM\Cronómetro Demo\Cronómetro Demo\obj\Debug\Cronómetro_Demo.Form1.resources
+C:\Users\LUNFUANKENDA\Documents\HTM\Cronómetro Demo\Cronómetro Demo\obj\Debug\Cronómetro_Demo.Properties.Resources.resources
+C:\Users\LUNFUANKENDA\Documents\HTM\Cronómetro Demo\Cronómetro Demo\obj\Debug\Cronómetro Demo.csproj.GenerateResource.cache
+C:\Users\LUNFUANKENDA\Documents\HTM\Cronómetro Demo\Cronómetro Demo\obj\Debug\Cronómetro Demo.csproj.CoreCompileInputs.cache
+C:\Users\LUNFUANKENDA\Documents\HTM\Cronómetro Demo\Cronómetro Demo\obj\Debug\Cronómetro Demo.exe
+C:\Users\LUNFUANKENDA\Documents\HTM\Cronómetro Demo\Cronómetro Demo\obj\Debug\Cronómetro Demo.pdb
