@@ -1,0 +1,11 @@
+C:\Users\LUNFUANKENDA\Documents\HTM\Representação de Algarismos\Representação de Algarismos\bin\Debug\Representação de Algarismos.exe.config
+C:\Users\LUNFUANKENDA\Documents\HTM\Representação de Algarismos\Representação de Algarismos\bin\Debug\Representação de Algarismos.exe
+C:\Users\LUNFUANKENDA\Documents\HTM\Representação de Algarismos\Representação de Algarismos\bin\Debug\Representação de Algarismos.pdb
+C:\Users\LUNFUANKENDA\Documents\HTM\Representação de Algarismos\Representação de Algarismos\obj\Debug\Representação de Algarismos.csproj.AssemblyReference.cache
+C:\Users\LUNFUANKENDA\Documents\HTM\Representação de Algarismos\Representação de Algarismos\obj\Debug\Representação de Algarismos.csproj.SuggestedBindingRedirects.cache
+C:\Users\LUNFUANKENDA\Documents\HTM\Representação de Algarismos\Representação de Algarismos\obj\Debug\Representação_de_Algarismos.Form1.resources
+C:\Users\LUNFUANKENDA\Documents\HTM\Representação de Algarismos\Representação de Algarismos\obj\Debug\Representação_de_Algarismos.Properties.Resources.resources
+C:\Users\LUNFUANKENDA\Documents\HTM\Representação de Algarismos\Representação de Algarismos\obj\Debug\Representação de Algarismos.csproj.GenerateResource.cache
+C:\Users\LUNFUANKENDA\Documents\HTM\Representação de Algarismos\Representação de Algarismos\obj\Debug\Representação de Algarismos.csproj.CoreCompileInputs.cache
+C:\Users\LUNFUANKENDA\Documents\HTM\Representação de Algarismos\Representação de Algarismos\obj\Debug\Representação de Algarismos.exe
+C:\Users\LUNFUANKENDA\Documents\HTM\Representação de Algarismos\Representação de Algarismos\obj\Debug\Representação de Algarismos.pdb
