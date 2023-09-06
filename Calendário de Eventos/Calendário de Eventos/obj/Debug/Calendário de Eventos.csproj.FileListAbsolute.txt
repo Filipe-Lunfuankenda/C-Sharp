@@ -1,0 +1,11 @@
+C:\Users\LUNFUANKENDA\Documents\HTM\Calendário de Eventos\Calendário de Eventos\bin\Debug\Calendário de Eventos.exe.config
+C:\Users\LUNFUANKENDA\Documents\HTM\Calendário de Eventos\Calendário de Eventos\bin\Debug\Calendário de Eventos.exe
+C:\Users\LUNFUANKENDA\Documents\HTM\Calendário de Eventos\Calendário de Eventos\bin\Debug\Calendário de Eventos.pdb
+C:\Users\LUNFUANKENDA\Documents\HTM\Calendário de Eventos\Calendário de Eventos\obj\Debug\Calendário de Eventos.csproj.AssemblyReference.cache
+C:\Users\LUNFUANKENDA\Documents\HTM\Calendário de Eventos\Calendário de Eventos\obj\Debug\Calendário de Eventos.csproj.SuggestedBindingRedirects.cache
+C:\Users\LUNFUANKENDA\Documents\HTM\Calendário de Eventos\Calendário de Eventos\obj\Debug\Calendário_de_Eventos.Form1.resources
+C:\Users\LUNFUANKENDA\Documents\HTM\Calendário de Eventos\Calendário de Eventos\obj\Debug\Calendário_de_Eventos.Properties.Resources.resources
+C:\Users\LUNFUANKENDA\Documents\HTM\Calendário de Eventos\Calendário de Eventos\obj\Debug\Calendário de Eventos.csproj.GenerateResource.cache
+C:\Users\LUNFUANKENDA\Documents\HTM\Calendário de Eventos\Calendário de Eventos\obj\Debug\Calendário de Eventos.csproj.CoreCompileInputs.cache
+C:\Users\LUNFUANKENDA\Documents\HTM\Calendário de Eventos\Calendário de Eventos\obj\Debug\Calendário de Eventos.exe
+C:\Users\LUNFUANKENDA\Documents\HTM\Calendário de Eventos\Calendário de Eventos\obj\Debug\Calendário de Eventos.pdb

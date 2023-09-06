@@ -1,0 +1,11 @@
+C:\Users\LUNFUANKENDA\Documents\HTM\Calculadora Simples\Calculadora Simples\bin\Debug\Calculadora Simples.exe.config
+C:\Users\LUNFUANKENDA\Documents\HTM\Calculadora Simples\Calculadora Simples\bin\Debug\Calculadora Simples.exe
+C:\Users\LUNFUANKENDA\Documents\HTM\Calculadora Simples\Calculadora Simples\bin\Debug\Calculadora Simples.pdb
+C:\Users\LUNFUANKENDA\Documents\HTM\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora Simples.csproj.AssemblyReference.cache
+C:\Users\LUNFUANKENDA\Documents\HTM\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora Simples.csproj.SuggestedBindingRedirects.cache
+C:\Users\LUNFUANKENDA\Documents\HTM\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora_Simples.Form1.resources
+C:\Users\LUNFUANKENDA\Documents\HTM\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora_Simples.Properties.Resources.resources
+C:\Users\LUNFUANKENDA\Documents\HTM\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora Simples.csproj.GenerateResource.cache
+C:\Users\LUNFUANKENDA\Documents\HTM\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora Simples.csproj.CoreCompileInputs.cache
+C:\Users\LUNFUANKENDA\Documents\HTM\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora Simples.exe
+C:\Users\LUNFUANKENDA\Documents\HTM\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora Simples.pdb
