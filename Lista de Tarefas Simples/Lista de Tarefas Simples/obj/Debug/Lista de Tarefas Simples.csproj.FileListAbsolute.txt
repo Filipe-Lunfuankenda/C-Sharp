@@ -1,0 +1,11 @@
+C:\Users\LUNFUANKENDA\source\repos\Lista de Tarefas Simples\Lista de Tarefas Simples\bin\Debug\Lista de Tarefas Simples.exe.config
+C:\Users\LUNFUANKENDA\source\repos\Lista de Tarefas Simples\Lista de Tarefas Simples\bin\Debug\Lista de Tarefas Simples.exe
+C:\Users\LUNFUANKENDA\source\repos\Lista de Tarefas Simples\Lista de Tarefas Simples\bin\Debug\Lista de Tarefas Simples.pdb
+C:\Users\LUNFUANKENDA\source\repos\Lista de Tarefas Simples\Lista de Tarefas Simples\obj\Debug\Lista de Tarefas Simples.csproj.AssemblyReference.cache
+C:\Users\LUNFUANKENDA\source\repos\Lista de Tarefas Simples\Lista de Tarefas Simples\obj\Debug\Lista de Tarefas Simples.csproj.SuggestedBindingRedirects.cache
+C:\Users\LUNFUANKENDA\source\repos\Lista de Tarefas Simples\Lista de Tarefas Simples\obj\Debug\Lista_de_Tarefas_Simples.Form1.resources
+C:\Users\LUNFUANKENDA\source\repos\Lista de Tarefas Simples\Lista de Tarefas Simples\obj\Debug\Lista_de_Tarefas_Simples.Properties.Resources.resources
+C:\Users\LUNFUANKENDA\source\repos\Lista de Tarefas Simples\Lista de Tarefas Simples\obj\Debug\Lista de Tarefas Simples.csproj.GenerateResource.cache
+C:\Users\LUNFUANKENDA\source\repos\Lista de Tarefas Simples\Lista de Tarefas Simples\obj\Debug\Lista de Tarefas Simples.csproj.CoreCompileInputs.cache
+C:\Users\LUNFUANKENDA\source\repos\Lista de Tarefas Simples\Lista de Tarefas Simples\obj\Debug\Lista de Tarefas Simples.exe
+C:\Users\LUNFUANKENDA\source\repos\Lista de Tarefas Simples\Lista de Tarefas Simples\obj\Debug\Lista de Tarefas Simples.pdb
